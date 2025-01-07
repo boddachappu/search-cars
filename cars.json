@@ -1,0 +1,78 @@
+[
+    {
+        "size": "xl",
+        "fuel": "petrol",
+        "doors": 4,
+        "transmission": "manual",
+        "id": 2,
+        "trips": []
+    },
+    {
+        "size": "s",
+        "fuel": "gasoline",
+        "doors": 5,
+        "transmission": "manual",
+        "id": 3,
+        "trips": []
+    },
+    {
+        "size": "m",
+        "fuel": "electric",
+        "doors": 3,
+        "transmission": "auto",
+        "id": 4,
+        "trips": []
+    },
+    {
+        "size": "m",
+        "fuel": "hybrid",
+        "doors": 5,
+        "transmission": "auto",
+        "id": 5,
+        "trips": []
+    },
+    {
+        "size": "m",
+        "fuel": "gasoline",
+        "doors": 5,
+        "transmission": "manual",
+        "id": 6,
+        "trips": []
+    },
+    {
+        "size": "l",
+        "fuel": "diesel",
+        "doors": 5,
+        "transmission": "manual",
+        "id": 7,
+        "trips": [
+            {
+                "start": 8,
+                "end": 10,
+                "description": "office",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "size": "m",
+        "fuel": "petrol",
+        "doors": 4,
+        "transmission": "manual",
+        "id": 10,
+        "trips": [
+            {
+                "start": 18,
+                "end": 20,
+                "description": "dinner",
+                "id": 1
+            },
+            {
+                "start": 8,
+                "end": 10,
+                "description": "office",
+                "id": 2
+            }
+        ]
+    }
+]
